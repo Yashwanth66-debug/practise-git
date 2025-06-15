@@ -1,0 +1,2 @@
+These are practice notes.
+Later we will rename or move this file.
