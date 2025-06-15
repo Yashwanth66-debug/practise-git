@@ -1,2 +1,3 @@
 This is index.txt file.
 It will be used to test Git operations like add, commit, and revert.
+abcd
